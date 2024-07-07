@@ -6,8 +6,10 @@ list:  user.staticPrompt
 
 ## FIXES
 fix grammar formally: Fix any mistakes or irregularities in grammar, spelling, or formatting. Use a professional business tone.  The text was created used voice dictation. Thus, there is likely to be issues regarding homophones and other misrecognitions. Do not change the original structure of the text.
-fix grammar: Fix any mistakes or irregularities in grammar, spelling, or formatting. The text was created used voice dictation. Thus, there is likely to be issues regarding homophones and other misrecognitions. Do not change the tone.  Do not change the original structure of the text.
-fix syntax: Fix any syntax errors in this code selection. Do not change any behavior.
+fix grammar: Fix any mistakes or irregularities in grammar, spelling, or formatting. The text was created used voice dictation. I had a stroke and so I have spastic dysarthria; consider phonetic sounding of typos, especially for multisyllabic words. Do not change the tone.  Do not change the original structure of the text.
+fix grammar casually:  Fix any mistakes or irregularities in grammar, spelling, or formatting. Keep a casual tone appropriate for a blog. Do not change the original structure of the text. The text was created used voice dictation. Thus, there is likely to be issues regarding homophones and other misrecognitions.
+
+Calculate: paste in the exact same latex environment, with the only difference that the computation made to simplify the fraction which you do is appended to the end.
 
 ## FORMATTING
 format table: The following markdown text is raw data. There is no index. Return the text in a markdown table format. Each row has a new line in the original data.
